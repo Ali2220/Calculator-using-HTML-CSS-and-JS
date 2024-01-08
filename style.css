@@ -1,0 +1,27 @@
+
+html,body{
+    height: 100%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: lightseagreen;
+}
+
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 66px;
+}
+
+.row{
+    margin: 8px 0;
+}
+
+.row input{
+    border: 2px solid black;
+    padding: 10px 7px;
+    border-radius: 5px;
+    font-size: 17px;
+    width: 22vw;
+}
